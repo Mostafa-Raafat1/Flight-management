@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1736892276 source:c:\users\moustafa\flight-management\main.cpp
+	<iostream>
+	"Passenger.h"
+	"flight.h"
+
+1736808069 c:\users\moustafa\flight-management\passenger.h
+	<iostream>
+
+1736808072 c:\users\moustafa\flight-management\flight.h
+	<iostream>
+	"Passenger.h"
+	<math.h>
+
+1736808072 source:c:\users\moustafa\flight-management\src\flight.cpp
+	"flight.h"
+	"Passenger.h"
+	<iostream>
+
+1736808072 c:\users\moustafa\flight-management\include\flight.h
+	<iostream>
+	"Passenger.h"
+	<math.h>
+
+1736808069 c:\users\moustafa\flight-management\include\passenger.h
+	<iostream>
+
+1736808073 source:c:\users\moustafa\flight-management\src\passenger.cpp
+	"Passenger.h"
+	<iostream>
+

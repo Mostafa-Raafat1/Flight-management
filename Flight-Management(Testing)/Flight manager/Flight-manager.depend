@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1731593096 source:c:\users\moustafa\onedrive\desktop\classes\supermarketsystem\assginnn1\main.cpp
+	<iostream>
+	"Passenger.h"
+	"flight.h"
+
+1731530015 source:c:\users\moustafa\onedrive\desktop\classes\supermarketsystem\assginnn1\src\passenger.cpp
+	"Passenger.h"
+	<iostream>
+
+1731532130 c:\users\moustafa\onedrive\desktop\classes\supermarketsystem\assginnn1\include\passenger.h
+	<iostream>
+
+1731592166 source:c:\users\moustafa\onedrive\desktop\classes\supermarketsystem\assginnn1\src\flight.cpp
+	"flight.h"
+	"Passenger.h"
+	<iostream>
+	<math.h>
+
+1731592023 c:\users\moustafa\onedrive\desktop\classes\supermarketsystem\assginnn1\include\flight.h
+	<iostream>
+	"Passenger.h"
+	<math.h>
+
+1731598126 source:c:\users\moustafa\onedrive\desktop\classes\supermarketsystem\assign1_20236094_20236103\main.cpp
+	<iostream>
+	"Passenger.h"
+	"flight.h"
+
+1731594876 c:\users\moustafa\onedrive\desktop\classes\supermarketsystem\assign1_20236094_20236103\include\passenger.h
+	<iostream>
+
+1731594628 c:\users\moustafa\onedrive\desktop\classes\supermarketsystem\assign1_20236094_20236103\include\flight.h
+	<iostream>
+	"Passenger.h"
+	<math.h>
+
+1731594629 source:c:\users\moustafa\onedrive\desktop\classes\supermarketsystem\assign1_20236094_20236103\src\passenger.cpp
+	"Passenger.h"
+	<iostream>
+
+1731595317 source:c:\users\moustafa\onedrive\desktop\classes\supermarketsystem\assign1_20236094_20236103\src\flight.cpp
+	"flight.h"
+	"Passenger.h"
+	<iostream>
+
+1736892505 source:c:\users\moustafa\onedrive\desktop\classes\flight-management\assign1_20236094_20236103\main.cpp
+	<iostream>
+	"Passenger.h"
+	"flight.h"
+
+1736892495 c:\users\moustafa\onedrive\desktop\classes\flight-management\assign1_20236094_20236103\include\passenger.h
+	<iostream>
+
+1736892475 c:\users\moustafa\onedrive\desktop\classes\flight-management\assign1_20236094_20236103\include\flight.h
+	<iostream>
+	"Passenger.h"
+	<math.h>
+
+1736892505 source:c:\users\moustafa\onedrive\desktop\classes\flight-management\assign1_20236094_20236103\src\flight.cpp
+	"flight.h"
+	"Passenger.h"
+	<iostream>
+
+1736892505 source:c:\users\moustafa\onedrive\desktop\classes\flight-management\assign1_20236094_20236103\src\passenger.cpp
+	"Passenger.h"
+	<iostream>
+
